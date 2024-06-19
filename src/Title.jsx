@@ -1,3 +1,3 @@
 export default function Title() {
-  return <h1>Counter App</h1>;
+  return <h1 className="title">Counter App</h1>;
 }
